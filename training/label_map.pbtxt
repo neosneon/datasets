@@ -1,0 +1,14 @@
+item {
+    id: 1
+    name: 'rusakberat'
+}
+
+item {
+    id: 2
+    name: 'rusakringan'
+}
+
+item {
+    id: 3
+    name: 'rusaksedang'
+}
